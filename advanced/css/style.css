@@ -1,0 +1,70 @@
+body {
+	color: lightgray;
+}
+header, footer{
+	background-color: black;
+}
+
+nav {
+	background-color: #595959;
+}
+
+#sortbtn {
+	background: none;
+	border: none;
+	color: lightgray;
+}
+
+a {
+	color: lightgray;
+}
+
+a:hover {
+	color: black;
+	text-decoration: none;
+}
+
+.maindiv {
+	background-color: #111111;
+	margin: 4%;
+	padding: 1%;
+}
+
+img {
+	width: 35%;
+	height: 100%;
+	float: left;
+	margin-right: 2%;
+}
+
+.movietext {
+	height: 100%;
+}
+
+.like{
+	position: absolute;
+    bottom: 0;
+    right: 0;
+    margin-right: .5em;
+    margin: 1em;
+    color: green;
+    font-size: 1.5rem;
+}
+
+.likebtn{
+	color: green;
+    font-size: 1.5rem;
+    background: none;
+	border: none;
+}
+
+.rating {
+	background-color: green;
+	color: white;
+	border-radius: 100%;
+	margin: 1em;
+	padding-left: .25em;
+	padding-right: .25em;
+	
+}
+
